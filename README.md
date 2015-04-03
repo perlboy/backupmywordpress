@@ -35,9 +35,9 @@ Backups are stored in the cloud accessible from BackupMyWordpress.net.
 Through our website you can obtain the latest backup you have stored for free.
 
 For our premium customers we offer the following additional advantages:
-	- All backups replicated to at least 2 different locations
-	- One Year history of backups
-	- AES256 Encryption Enabled
+* All backups replicated to at least 2 different locations
+* One Year history of backups
+* AES256 Encryption Enabled
 
 **How do I restore my site from a backup?**
 
